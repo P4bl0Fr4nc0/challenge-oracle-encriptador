@@ -180,7 +180,7 @@ footer p {
     margin-top: -100px;
     margin-left: 90px;
     width: 336px;
-    position: absolute;
+    position: fixed;
     visibility:hidden;  
     
 }
